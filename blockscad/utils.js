@@ -12,7 +12,8 @@ BSUtils.LANGUAGE_NAME = {
   // 'de': 'Deutsch',
   // 'fr': 'Français',
   // 'sl' : 'Slovenščina',
-  'zh-hans': '繁體中文'
+  'zh-hant': '繁體中文',
+  'zh-hans': '简体中文'
   // 'es': 'Español'
 };
 // BSUtils.LANGUAGE_NAME = {
